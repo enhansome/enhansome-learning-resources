@@ -1,0 +1,311 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Angular's Source Code",
+          "description": "Maintained by Google",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:01:15Z",
+            "owner": "angular",
+            "repo": "angular",
+            "stars": 100988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sample Angular Starter App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-19T08:39:00Z",
+            "owner": "duluca",
+            "repo": "lemon-mart",
+            "stars": 190
+          }
+        }
+      ],
+      "title": "Angular"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SecLists",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T11:20:40Z",
+            "owner": "danielmiessler",
+            "repo": "SecLists",
+            "stars": 72833
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-infosec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-21T19:28:33Z",
+            "owner": "onlurking",
+            "repo": "awesome-infosec",
+            "stars": 5717
+          }
+        }
+      ],
+      "title": "InfoSec"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "trekhleb/javascript-algorithms",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T02:43:08Z",
+            "owner": "trekhleb",
+            "repo": "javascript-algorithms",
+            "stars": 196468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YDKJS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-15T04:36:44Z",
+            "owner": "getify",
+            "repo": "You-Dont-Know-JS",
+            "stars": 184666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ES6 Overview in 350 Bullet Points",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-06-19T17:50:47Z",
+            "owner": "bevacqua",
+            "repo": "es6",
+            "stars": 4289
+          }
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "list-of-21-artisan-make-commands-with-parameters",
+      "items": [],
+      "title": "Laravel"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Node.js Testing with Jest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T07:22:23Z",
+            "owner": "jestjs",
+            "repo": "jest",
+            "stars": 45469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Art of Node",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-08-03T14:56:30Z",
+            "owner": "max-mapper",
+            "repo": "art-of-node",
+            "stars": 9875
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft Node.js Guidelines",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2023-02-12T09:16:18Z",
+            "owner": "microsoft",
+            "repo": "nodejs-guidelines",
+            "stars": 2497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "You don't know Node.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-27T09:04:15Z",
+            "owner": "azat-co",
+            "repo": "you-dont-know-node",
+            "stars": 1541
+          }
+        }
+      ],
+      "title": "NodeJS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Serverless",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-11T16:45:39Z",
+            "owner": "anaibol",
+            "repo": "awesome-serverless",
+            "stars": 7584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Serverless Papers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-15T12:39:59Z",
+            "owner": "penghuima",
+            "repo": "awesome-serverless-papers",
+            "stars": 221
+          }
+        }
+      ],
+      "title": "Serverless"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Typescript Wiki",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:06:52Z",
+            "owner": "microsoft",
+            "repo": "TypeScript",
+            "stars": 110177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typescript Deep Dive (Book)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-29T11:46:59Z",
+            "owner": "basarat",
+            "repo": "typescript-book",
+            "stars": 21545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Using Jest for Typescript Testing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:06:12Z",
+            "owner": "kulshekhar",
+            "repo": "ts-jest",
+            "stars": 7076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typescript Handbook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-08-01T19:54:09Z",
+            "owner": "microsoft",
+            "repo": "TypeScript-Handbook",
+            "stars": 4851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typescript Exercises",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-29T12:34:31Z",
+            "owner": "typescript-exercises",
+            "repo": "typescript-exercises",
+            "stars": 3005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starter Template for Typescript and Node.js",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Typescript"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T04:24:29.849Z",
+    "original_repository": "lauragift21/awesome-learning-resources",
+    "original_repository_sha": "0e9afa0c8b67df6f8ffa0a8d46847476a56ccd1b",
+    "enhanced_repository": "enhansome/enhansome-learning-resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome Learning Resources with stars"
+  }
+}
