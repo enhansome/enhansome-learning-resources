@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T16:29:46Z",
+            "last_commit": "2026-08-17T22:51:07Z",
             "owner": "angular",
             "repo": "angular",
-            "stars": 101022
+            "stars": 100994
           }
         },
         {
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-16T11:07:22Z",
+            "last_commit": "2026-08-17T10:36:42Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 72885
+            "stars": 72906
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-15T16:05:29Z",
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5718
+            "stars": 5717
           }
         }
       ],
@@ -82,7 +82,7 @@
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196496
+            "stars": 196509
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184684
+            "stars": 184699
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2017-06-19T17:50:47Z",
             "owner": "bevacqua",
             "repo": "es6",
-            "stars": 4289
+            "stars": 4288
           }
         }
       ],
@@ -132,7 +132,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T01:08:35Z",
+            "last_commit": "2026-08-17T12:17:01Z",
             "owner": "jestjs",
             "repo": "jest",
             "stars": 45468
@@ -163,7 +163,7 @@
             "last_commit": "2023-02-12T09:16:18Z",
             "owner": "microsoft",
             "repo": "nodejs-guidelines",
-            "stars": 2497
+            "stars": 2496
           }
         },
         {
@@ -197,7 +197,7 @@
             "last_commit": "2026-02-11T16:45:39Z",
             "owner": "anaibol",
             "repo": "awesome-serverless",
-            "stars": 7585
+            "stars": 7586
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-14T19:07:48Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110186
+            "stars": 110183
           }
         },
         {
@@ -245,7 +245,7 @@
             "last_commit": "2024-06-29T11:46:59Z",
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21548
+            "stars": 21547
           }
         },
         {
@@ -259,7 +259,7 @@
             "last_commit": "2026-08-13T22:06:12Z",
             "owner": "kulshekhar",
             "repo": "ts-jest",
-            "stars": 7076
+            "stars": 7075
           }
         },
         {
@@ -301,7 +301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T03:28:13.217Z",
+    "last_updated": "2026-08-18T03:23:55.228Z",
     "original_repository": "lauragift21/awesome-learning-resources",
     "original_repository_sha": "0e9afa0c8b67df6f8ffa0a8d46847476a56ccd1b",
     "enhanced_repository": "enhansome/enhansome-learning-resources",
