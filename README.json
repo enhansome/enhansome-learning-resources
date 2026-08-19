@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24195339,
             "language": "TypeScript",
             "last_commit": "2026-08-19T00:42:26Z",
             "owner": "angular",
             "repo": "angular",
-            "stars": 101007
+            "stars": 101006
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116098994,
             "language": "TypeScript",
             "last_commit": "2026-01-19T08:39:00Z",
             "owner": "duluca",
@@ -35,7 +37,7 @@
       "title": "Angular"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-18T13:47:29Z",
+            "last_commit": "2026-08-19T10:33:47Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 72920
+            "stars": 72930
           }
         },
         {
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35577029,
             "language": null,
             "last_commit": "2026-08-15T16:05:29Z",
             "owner": "onlurking",
@@ -69,7 +73,7 @@
       "title": "InfoSec"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -78,11 +82,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126577260,
             "language": "JavaScript",
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196515
+            "stars": 196522
           }
         },
         {
@@ -92,11 +97,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14440270,
             "language": null,
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184707
+            "stars": 184711
           }
         },
         {
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46495414,
             "language": null,
             "last_commit": "2017-06-19T17:50:47Z",
             "owner": "bevacqua",
@@ -117,12 +124,7 @@
       "title": "JavaScript"
     },
     {
-      "description": "list-of-21-artisan-make-commands-with-parameters",
-      "items": [],
-      "title": "Laravel"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -131,11 +133,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15062869,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T21:28:04Z",
+            "last_commit": "2026-08-19T07:13:08Z",
             "owner": "jestjs",
             "repo": "jest",
-            "stars": 45468
+            "stars": 45469
           }
         },
         {
@@ -145,6 +148,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8936633,
             "language": "JavaScript",
             "last_commit": "2020-08-03T14:56:30Z",
             "owner": "max-mapper",
@@ -159,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 45360221,
             "language": null,
             "last_commit": "2023-02-12T09:16:18Z",
             "owner": "microsoft",
@@ -173,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43770860,
             "language": "Python",
             "last_commit": "2018-11-27T09:04:15Z",
             "owner": "azat-co",
@@ -184,7 +190,7 @@
       "title": "NodeJS"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -193,6 +199,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51401194,
             "language": null,
             "last_commit": "2026-02-11T16:45:39Z",
             "owner": "anaibol",
@@ -207,6 +214,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 399335846,
             "language": null,
             "last_commit": "2024-01-15T12:39:59Z",
             "owner": "penghuima",
@@ -218,7 +226,7 @@
       "title": "Serverless"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -227,11 +235,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20929025,
             "language": "TypeScript",
             "last_commit": "2026-08-14T19:07:48Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110197
+            "stars": 110204
           }
         },
         {
@@ -241,11 +250,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32623292,
             "language": "TypeScript",
             "last_commit": "2024-06-29T11:46:59Z",
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21548
+            "stars": 21549
           }
         },
         {
@@ -255,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66944590,
             "language": "TypeScript",
             "last_commit": "2026-08-13T22:06:12Z",
             "owner": "kulshekhar",
@@ -269,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 33742985,
             "language": "JavaScript",
             "last_commit": "2020-08-01T19:54:09Z",
             "owner": "microsoft",
@@ -283,26 +295,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259954158,
             "language": "TypeScript",
             "last_commit": "2026-03-29T12:34:31Z",
             "owner": "typescript-exercises",
             "repo": "typescript-exercises",
             "stars": 3003
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Starter Template for Typescript and Node.js",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Typescript"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:25:47.247Z",
+    "last_updated": "2026-08-19T12:37:58.245Z",
     "original_repository": "lauragift21/awesome-learning-resources",
+    "original_repository_id": 118102098,
     "original_repository_sha": "0e9afa0c8b67df6f8ffa0a8d46847476a56ccd1b",
     "enhanced_repository": "enhansome/enhansome-learning-resources",
     "enhanced_repository_description": null,
