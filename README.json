@@ -15,7 +15,7 @@
             "last_commit": "2026-08-22T01:13:19Z",
             "owner": "angular",
             "repo": "angular",
-            "stars": 100997
+            "stars": 100998
           }
         },
         {
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-21T14:16:14Z",
+            "last_commit": "2026-08-22T11:07:53Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 72984
+            "stars": 73006
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196537
+            "stars": 196539
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184709
+            "stars": 184715
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-21T20:48:35Z",
             "owner": "jestjs",
             "repo": "jest",
-            "stars": 45471
+            "stars": 45470
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-02-11T16:45:39Z",
             "owner": "anaibol",
             "repo": "awesome-serverless",
-            "stars": 7585
+            "stars": 7584
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-21T21:39:39Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110397
+            "stars": 110556
           }
         },
         {
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:21:33.690Z",
+    "last_updated": "2026-08-23T03:30:04.167Z",
     "original_repository": "lauragift21/awesome-learning-resources",
     "original_repository_id": 118102098,
     "original_repository_sha": "0e9afa0c8b67df6f8ffa0a8d46847476a56ccd1b",
