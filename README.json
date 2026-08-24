@@ -15,7 +15,7 @@
             "last_commit": "2026-08-22T01:13:19Z",
             "owner": "angular",
             "repo": "angular",
-            "stars": 101000
+            "stars": 101004
           }
         },
         {
@@ -41,6 +41,111 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Bootstrap Tutorial Series",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41999421,
+            "language": "HTML",
+            "last_commit": "2017-03-22T14:13:27Z",
+            "owner": "SonarSystems",
+            "repo": "Bootstrap-4-Tutorial-Series",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "BOOTSTRAP"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Quartz Guide to Bad data",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46130927,
+            "language": null,
+            "last_commit": "2021-09-20T21:15:25Z",
+            "owner": "Quartz",
+            "repo": "bad-data-guide",
+            "stars": 4128
+          }
+        }
+      ],
+      "title": "Data Science"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Git and GitHub commands (a list)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6412729,
+            "language": null,
+            "last_commit": "2024-10-15T00:47:00Z",
+            "owner": "joshnh",
+            "repo": "Git-Commands",
+            "stars": 5458
+          }
+        }
+      ],
+      "title": "Git and GitHub"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "1000+ Go exercises, examples, and quizzes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 153099672,
+            "language": "Go",
+            "last_commit": "2025-06-24T23:03:52Z",
+            "owner": "inancgumus",
+            "repo": "learngo",
+            "stars": 20116
+          }
+        }
+      ],
+      "title": "Golang"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Hacking",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 299915642,
+            "language": null,
+            "last_commit": "2020-09-30T12:46:25Z",
+            "owner": "netanmangal",
+            "repo": "Awesome-Hacking",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Hacking"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "SecLists",
           "description": null,
           "children": [],
@@ -48,10 +153,10 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-23T11:08:38Z",
+            "last_commit": "2026-08-24T11:12:01Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73031
+            "stars": 73037
           }
         },
         {
@@ -66,7 +171,7 @@
             "last_commit": "2026-08-15T16:05:29Z",
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5722
+            "stars": 5723
           }
         }
       ],
@@ -87,7 +192,7 @@
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196545
+            "stars": 196546
           }
         },
         {
@@ -102,7 +207,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184716
+            "stars": 184718
           }
         },
         {
@@ -138,7 +243,7 @@
             "last_commit": "2026-08-24T02:13:21Z",
             "owner": "jestjs",
             "repo": "jest",
-            "stars": 45470
+            "stars": 45471
           }
         },
         {
@@ -194,6 +299,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Roadmap to becoming a React developer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137583435,
+            "language": "JavaScript",
+            "last_commit": "2024-02-16T12:34:44Z",
+            "owner": "adam-golab",
+            "repo": "react-developer-roadmap",
+            "stars": 18923
+          }
+        }
+      ],
+      "title": "ReactJS"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ada Developers Academy Jump Start",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48063511,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-22T01:46:14Z",
+            "owner": "Ada-Developers-Academy",
+            "repo": "ada-build",
+            "stars": 770
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Awesome Serverless",
           "description": null,
           "children": [],
@@ -240,7 +387,7 @@
             "last_commit": "2026-08-24T01:47:42Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110634
+            "stars": 110650
           }
         },
         {
@@ -308,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:32:16.950Z",
+    "last_updated": "2026-08-24T13:52:37.058Z",
     "original_repository": "lauragift21/awesome-learning-resources",
     "original_repository_id": 118102098,
     "original_repository_sha": "0e9afa0c8b67df6f8ffa0a8d46847476a56ccd1b",

@@ -1,6 +1,6 @@
 # Awesome Learning Resources with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lauragift21/awesome-learning-resources) ⭐ 5,760 | 🐛 27 | 📅 2025-07-16 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lauragift21/awesome-learning-resources) ⭐ 5,761 | 🐛 27 | 📅 2025-07-16 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 [Preview on the web](https://nicedoc.io/lauragift21/awesome-learning-resources)
 
@@ -89,7 +89,7 @@
 
 ## Angular
 
-* [Angular's Source Code](https://github.com/angular/angular) ⭐ 101,000 | 🐛 1,165 | 🌐 TypeScript | 📅 2026-08-22 Maintained by Google
+* [Angular's Source Code](https://github.com/angular/angular) ⭐ 101,004 | 🐛 1,168 | 🌐 TypeScript | 📅 2026-08-22 Maintained by Google
 * [Sample Angular Starter App](https://github.com/duluca/lemon-mart) ⭐ 190 | 🐛 24 | 🌐 TypeScript | 📅 2026-01-19
 * [Official Angular Quickstart](https://angular.io/guide/quickstart)
 * [Angular Console](https://angularconsole.com/) A nifty UI for the Angular CLI
@@ -124,11 +124,11 @@
 
 ## BOOTSTRAP
 
+* [Bootstrap Tutorial Series](https://github.com/SonarSystems/Bootstrap-4-Tutorial-Series) ⭐ 57 | 🐛 1 | 🌐 HTML | 📅 2017-03-22
 * [W3Schools](https://www.w3schools.com/bootstrap4/)
 * [Website Setup](https://websitesetup.org/bootstrap-tutorial-for-beginners/)
 * [Bootstrapious](https://bootstrapious.com/blog)
 * [Tutorials Point](https://www.tutorialspoint.com/bootstrap/index.htm)
-* [Bootstrap Tutorial Series](https://github.com/SonarSystems/Bootstrap-4-Tutorial-Series) ⭐ 57 | 🐛 1 | 🌐 HTML | 📅 2017-03-22
 * [Hackr.io](https://hackr.io/tutorials/learn-bootstrap)
 * [Tabler](https://preview.tabler.io)
 * [Bootstrap Tutorial - Tutlane](https://www.tutlane.com/tutorial/bootstrap)
@@ -187,10 +187,10 @@
 
 ## Data Science
 
+* [The Quartz Guide to Bad data](https://github.com/Quartz/bad-data-guide) ⭐ 4,128 | 🐛 12 | 📅 2021-09-20
 * [DataCamp](https://www.datacamp.com/)
 * [New Coder](https://newcoder.io/)
 * [Data Analysis in Python with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
-* [The Quartz Guide to Bad data](https://github.com/Quartz/bad-data-guide) ⭐ 4,128 | 🐛 12 | 📅 2021-09-20
 * [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2019/01/learning-path-data-scientist-machine-learning-2019/)
 * [Alison](https://alison.com/courses/data-science)
 * [Automate the boring stuff with Python](https://automatetheboringstuff.com)
@@ -287,13 +287,13 @@
 
 ## Git and GitHub
 
+* [Git and GitHub commands (a list)](https://github.com/joshnh/Git-Commands) ⭐ 5,458 | 🐛 10 | 📅 2024-10-15
 * [The official github guides](https://guides.github.com/)
 * [GitHub Learning Lab](https://lab.github.com/)
 * [GitHub Training](https://www.youtube.com/user/GitHubGuides)
 * [Git and GitHub by freecodecamp.org](https://www.youtube.com/watch?v=vR-y_2zWrIE\&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
 * [Get to know Git by scotch.io (Premium content)](https://scotch.io/courses/get-to-know-git)
 * [Git and GitHub for beginners (Traversy Media)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-* [Git and GitHub commands (a list)](https://github.com/joshnh/Git-Commands) ⭐ 5,458 | 🐛 10 | 📅 2024-10-15
 * [Pro Git](https://git-scm.com/book/en/v2)
 * [Git In The Trenches](https://cbx33.github.io/gitt/intro.html)
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
@@ -301,7 +301,7 @@
 
 ## Golang
 
-* [1000+ Go exercises, examples, and quizzes](https://github.com/inancgumus/learngo) ⭐ 20,117 | 🐛 44 | 🌐 Go | 📅 2025-06-24
+* [1000+ Go exercises, examples, and quizzes](https://github.com/inancgumus/learngo) ⭐ 20,116 | 🐛 44 | 🌐 Go | 📅 2025-06-24
 * [A Tour of Go](https://tour.golang.org/welcome/1)
 * [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/)
 * [Go by Example](https://gobyexample.com/)
@@ -334,8 +334,8 @@
 
 ## InfoSec
 
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,031 | 🐛 12 | 🌐 PHP | 📅 2026-08-23
-* [awesome-infosec](https://github.com/onlurking/awesome-infosec) ⭐ 5,722 | 🐛 15 | 📅 2026-08-15
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,037 | 🐛 12 | 🌐 PHP | 📅 2026-08-24
+* [awesome-infosec](https://github.com/onlurking/awesome-infosec) ⭐ 5,723 | 🐛 15 | 📅 2026-08-15
 * [OWASP Top 10](https://www.owasp.org/index.php/Top_10-2017_Top_10)
 * [Beggining with Reverse Engineering](https://beginners.re/)
 * [CTF field guide](https://trailofbits.github.io/ctf/)
@@ -350,8 +350,8 @@
 
 ## JavaScript
 
-* [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,545 | 🐛 404 | 🌐 JavaScript | 📅 2026-07-26
-* [YDKJS](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,716 | 🐛 2 | 📅 2026-02-15
+* [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,546 | 🐛 405 | 🌐 JavaScript | 📅 2026-07-26
+* [YDKJS](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,718 | 🐛 2 | 📅 2026-02-15
 * [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6) ⭐ 4,288 | 🐛 0 | 📅 2017-06-19
 * [FreeCodeCamp](https://freecodecamp.com)
 * [The Odin Project](https://www.theodinproject.com/)
@@ -444,7 +444,7 @@
 
 ## NodeJS
 
-* [Node.js Testing with Jest](https://github.com/facebook/jest) ⭐ 45,470 | 🐛 182 | 🌐 TypeScript | 📅 2026-08-24
+* [Node.js Testing with Jest](https://github.com/facebook/jest) ⭐ 45,471 | 🐛 182 | 🌐 TypeScript | 📅 2026-08-24
 * [The Art of Node](https://github.com/maxogden/art-of-node) ⭐ 9,877 | 🐛 15 | 🌐 JavaScript | 📅 2020-08-03
 * [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) ⚠️ Archived
 * [You don't know Node.js](https://github.com/azat-co/you-dont-know-node) ⭐ 1,541 | 🐛 1 | 🌐 Python | 📅 2018-11-27
@@ -555,6 +555,7 @@
 
 ## ReactJS
 
+* [Roadmap to becoming a React developer](https://github.com/adam-golab/react-developer-roadmap) ⭐ 18,923 | 🐛 35 | 🌐 JavaScript | 📅 2024-02-16
 * [React for Beginners by Wes Bos](https://reactforbeginners.com/)
 * [Learn React](https://scrimba.com/course/glearnreact)
 * [The React BootCamp](https://scrimba.com/course/greact)
@@ -562,7 +563,6 @@
 * [Alligator.IO React Page](https://alligator.io/react/)
 * [Egghead.io](https://egghead.io/browse/frameworks/react)
 * [Frontend Masters](https://frontendmasters.com/learn/react/)
-* [Roadmap to becoming a React developer](https://github.com/adam-golab/react-developer-roadmap) ⭐ 18,924 | 🐛 35 | 🌐 JavaScript | 📅 2024-02-16
 * [fullstackreact](https://www.fullstackreact.com/)
 * [The Road to learn React](https://roadtoreact.com/)
 * [React Fundamentals by Tyler Mcginnis](https://tylermcginnis.com/courses/react-fundamentals/)
@@ -590,9 +590,9 @@
 
 ## Ruby
 
+* [Ada Developers Academy Jump Start](https://github.com/Ada-Developers-Academy/jump-start) ⭐ 770 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-22
 * [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
 * [The Ruby Reference](https://rubyreferences.github.io/rubyref/)
-* [Ada Developers Academy Jump Start](https://github.com/Ada-Developers-Academy/jump-start) ⭐ 770 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-22
 * [App Academy Open](https://open.appacademy.io/)
 * [DevProjects - Free Real-World Ruby Projects](https://www.codementor.io/projects/ruby)
 
@@ -650,7 +650,7 @@
 * [Remove Background from Images](https://www.remove.bg/)
 * [Creative Coding Experiments Blog](https://tympanus.net/codrops/)
 * [CanIUse](https://caniuse.com/)
-* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,764 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29
+* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,766 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29
 * [Cool Tech Confrence Talks](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 
 ## Startups
@@ -687,7 +687,7 @@
 
 ## Typescript
 
-* [Typescript Wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 110,634 | 🐛 5,215 | 🌐 Go | 📅 2026-08-24
+* [Typescript Wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 110,650 | 🐛 5,219 | 🌐 Go | 📅 2026-08-24
 * [Typescript Deep Dive (Book)](https://github.com/basarat/typescript-book) ⭐ 21,552 | 🐛 150 | 🌐 TypeScript | 📅 2024-06-29
 * [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest) ⭐ 7,075 | 🐛 84 | 🌐 TypeScript | 📅 2026-08-23
 * [Typescript Handbook](https://github.com/Microsoft/TypeScript-Handbook/blob/master/pages) ⚠️ Archived
@@ -708,7 +708,7 @@
 * [Routing and Route Protection in Server-Rendered Vue Apps Using Nuxt.js](https://css-tricks.com/routing-route-protection-server-rendered-vue-apps-using-nuxt-js/#comment-1615086)
 * [Guide to Learning Vue](https://css-tricks.com/guides/vue/)
 * [Made with Vue.js](https://madewithvuejs.com/)
-* [Awesome Vue](https://github.com/vuejs/awesome-vue) ⭐ 73,536 | 🐛 98 | 📅 2026-07-24
+* [Awesome Vue](https://github.com/vuejs/awesome-vue) ⭐ 73,535 | 🐛 98 | 📅 2026-07-24
 * [4 Awesome Things You Can Do with the Vue.js CLI](https://www.telerik.com/blogs/4-awesome-things-you-can-do-with-the-vuejs-cli)
 * [Vue.js Cookbook](https://vuejs.org/v2/cookbook/)
 * [From Zero to Hero with Vue - But first, why Vue?](https://medium.freecodecamp.org/from-zero-to-hero-with-vue-why-vue-8c7e981b494)
