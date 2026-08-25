@@ -114,7 +114,7 @@
             "last_commit": "2025-06-24T23:03:52Z",
             "owner": "inancgumus",
             "repo": "learngo",
-            "stars": 20116
+            "stars": 20117
           }
         }
       ],
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-24T14:19:12Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73048
+            "stars": 73050
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196548
+            "stars": 196549
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184719
+            "stars": 184721
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2026-08-24T22:58:23Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110663
+            "stars": 110665
           }
         },
         {
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:26:45.037Z",
+    "last_updated": "2026-08-25T05:48:36.485Z",
     "original_repository": "lauragift21/awesome-learning-resources",
     "original_repository_id": 118102098,
     "original_repository_sha": "0e9afa0c8b67df6f8ffa0a8d46847476a56ccd1b",
