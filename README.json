@@ -12,7 +12,7 @@
             "archived": false,
             "id": 24195339,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T00:14:55Z",
+            "last_commit": "2026-08-26T01:45:48Z",
             "owner": "angular",
             "repo": "angular",
             "stars": 101005
@@ -72,7 +72,7 @@
             "last_commit": "2021-09-20T21:15:25Z",
             "owner": "Quartz",
             "repo": "bad-data-guide",
-            "stars": 4128
+            "stars": 4127
           }
         }
       ],
@@ -114,7 +114,7 @@
             "last_commit": "2025-06-24T23:03:52Z",
             "owner": "inancgumus",
             "repo": "learngo",
-            "stars": 20117
+            "stars": 20121
           }
         }
       ],
@@ -153,10 +153,10 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-24T14:19:12Z",
+            "last_commit": "2026-08-25T11:10:35Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73050
+            "stars": 73080
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-15T16:05:29Z",
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5724
+            "stars": 5725
           }
         }
       ],
@@ -192,7 +192,7 @@
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196549
+            "stars": 196559
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184721
+            "stars": 184725
           }
         },
         {
@@ -240,10 +240,10 @@
             "archived": false,
             "id": 15062869,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T02:13:21Z",
+            "last_commit": "2026-08-25T08:07:05Z",
             "owner": "jestjs",
             "repo": "jest",
-            "stars": 45473
+            "stars": 45472
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2024-02-16T12:34:44Z",
             "owner": "adam-golab",
             "repo": "react-developer-roadmap",
-            "stars": 18923
+            "stars": 18922
           }
         }
       ],
@@ -384,10 +384,10 @@
             "archived": false,
             "id": 20929025,
             "language": "Go",
-            "last_commit": "2026-08-24T22:58:23Z",
+            "last_commit": "2026-08-26T01:40:39Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110665
+            "stars": 110686
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2024-06-29T11:46:59Z",
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21553
+            "stars": 21552
           }
         },
         {
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:48:36.485Z",
+    "last_updated": "2026-08-26T03:33:55.698Z",
     "original_repository": "lauragift21/awesome-learning-resources",
     "original_repository_id": 118102098,
     "original_repository_sha": "0e9afa0c8b67df6f8ffa0a8d46847476a56ccd1b",
