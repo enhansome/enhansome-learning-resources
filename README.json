@@ -12,10 +12,10 @@
             "archived": false,
             "id": 24195339,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T01:45:48Z",
+            "last_commit": "2026-08-27T00:16:52Z",
             "owner": "angular",
             "repo": "angular",
-            "stars": 101005
+            "stars": 101004
           }
         },
         {
@@ -114,7 +114,7 @@
             "last_commit": "2025-06-24T23:03:52Z",
             "owner": "inancgumus",
             "repo": "learngo",
-            "stars": 20121
+            "stars": 20122
           }
         }
       ],
@@ -153,10 +153,10 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-25T11:10:35Z",
+            "last_commit": "2026-08-26T11:12:02Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73080
+            "stars": 73120
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-15T16:05:29Z",
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5725
+            "stars": 5727
           }
         }
       ],
@@ -192,7 +192,7 @@
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196559
+            "stars": 196566
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184725
+            "stars": 184741
           }
         },
         {
@@ -240,10 +240,10 @@
             "archived": false,
             "id": 15062869,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T08:07:05Z",
+            "last_commit": "2026-08-27T06:41:55Z",
             "owner": "jestjs",
             "repo": "jest",
-            "stars": 45472
+            "stars": 45475
           }
         },
         {
@@ -384,10 +384,10 @@
             "archived": false,
             "id": 20929025,
             "language": "Go",
-            "last_commit": "2026-08-26T01:40:39Z",
+            "last_commit": "2026-08-26T23:49:27Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110686
+            "stars": 110728
           }
         },
         {
@@ -414,7 +414,7 @@
             "archived": false,
             "id": 66944590,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T06:54:51Z",
+            "last_commit": "2026-08-26T20:30:19Z",
             "owner": "kulshekhar",
             "repo": "ts-jest",
             "stars": 7075
@@ -455,9 +455,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:33:55.698Z",
-    "original_repository": "lauragift21/awesome-learning-resources",
-    "original_repository_id": 118102098,
+    "last_updated": "2026-08-27T11:48:16.612Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 118102098,
+      "language": null,
+      "last_commit": "2025-07-16T10:29:00Z",
+      "owner": "lauragift21",
+      "repo": "awesome-learning-resources",
+      "stars": 5764
+    },
     "original_repository_sha": "0e9afa0c8b67df6f8ffa0a8d46847476a56ccd1b",
     "enhanced_repository": "enhansome/enhansome-learning-resources",
     "enhanced_repository_description": null,
