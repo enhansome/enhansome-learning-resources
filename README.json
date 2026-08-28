@@ -12,11 +12,12 @@
             "archived": false,
             "id": 24195339,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T00:16:52Z",
+            "last_commit": "2026-08-28T09:19:13Z",
             "owner": "angular",
             "repo": "angular",
-            "stars": 101004
-          }
+            "stars": 101005
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "duluca",
             "repo": "lemon-mart",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         }
       ],
       "title": "Angular"
@@ -52,7 +54,8 @@
             "owner": "SonarSystems",
             "repo": "Bootstrap-4-Tutorial-Series",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         }
       ],
       "title": "BOOTSTRAP"
@@ -72,8 +75,9 @@
             "last_commit": "2021-09-20T21:15:25Z",
             "owner": "Quartz",
             "repo": "bad-data-guide",
-            "stars": 4127
-          }
+            "stars": 4128
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         }
       ],
       "title": "Data Science"
@@ -94,7 +98,8 @@
             "owner": "joshnh",
             "repo": "Git-Commands",
             "stars": 5460
-          }
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         }
       ],
       "title": "Git and GitHub"
@@ -115,7 +120,8 @@
             "owner": "inancgumus",
             "repo": "learngo",
             "stars": 20122
-          }
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         }
       ],
       "title": "Golang"
@@ -136,7 +142,8 @@
             "owner": "netanmangal",
             "repo": "Awesome-Hacking",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         }
       ],
       "title": "Hacking"
@@ -153,11 +160,12 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-26T11:12:02Z",
+            "last_commit": "2026-08-27T15:51:06Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73120
-          }
+            "stars": 73132
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         },
         {
           "node_type": "item",
@@ -171,8 +179,9 @@
             "last_commit": "2026-08-15T16:05:29Z",
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5727
-          }
+            "stars": 5728
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         }
       ],
       "title": "InfoSec"
@@ -192,8 +201,9 @@
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196567
-          }
+            "stars": 196575
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         },
         {
           "node_type": "item",
@@ -207,8 +217,9 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184742
-          }
+            "stars": 184747
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         },
         {
           "node_type": "item",
@@ -223,7 +234,8 @@
             "owner": "bevacqua",
             "repo": "es6",
             "stars": 4288
-          }
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         }
       ],
       "title": "JavaScript"
@@ -240,11 +252,12 @@
             "archived": false,
             "id": 15062869,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T06:41:55Z",
+            "last_commit": "2026-08-28T11:51:49Z",
             "owner": "jestjs",
             "repo": "jest",
-            "stars": 45475
-          }
+            "stars": 45474
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         },
         {
           "node_type": "item",
@@ -259,7 +272,8 @@
             "owner": "max-mapper",
             "repo": "art-of-node",
             "stars": 9878
-          }
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         },
         {
           "node_type": "item",
@@ -274,7 +288,8 @@
             "owner": "microsoft",
             "repo": "nodejs-guidelines",
             "stars": 2496
-          }
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         },
         {
           "node_type": "item",
@@ -289,7 +304,8 @@
             "owner": "azat-co",
             "repo": "you-dont-know-node",
             "stars": 1541
-          }
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         }
       ],
       "title": "NodeJS"
@@ -309,8 +325,9 @@
             "last_commit": "2024-02-16T12:34:44Z",
             "owner": "adam-golab",
             "repo": "react-developer-roadmap",
-            "stars": 18922
-          }
+            "stars": 18920
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         }
       ],
       "title": "ReactJS"
@@ -331,7 +348,8 @@
             "owner": "Ada-Developers-Academy",
             "repo": "ada-build",
             "stars": 770
-          }
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         }
       ],
       "title": "Ruby"
@@ -352,7 +370,8 @@
             "owner": "anaibol",
             "repo": "awesome-serverless",
             "stars": 7585
-          }
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         },
         {
           "node_type": "item",
@@ -367,7 +386,8 @@
             "owner": "penghuima",
             "repo": "awesome-serverless-papers",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         }
       ],
       "title": "Serverless"
@@ -384,11 +404,12 @@
             "archived": false,
             "id": 20929025,
             "language": "Go",
-            "last_commit": "2026-08-26T23:49:27Z",
+            "last_commit": "2026-08-27T23:48:59Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110728
-          }
+            "stars": 110745
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         },
         {
           "node_type": "item",
@@ -403,7 +424,8 @@
             "owner": "basarat",
             "repo": "typescript-book",
             "stars": 21552
-          }
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         },
         {
           "node_type": "item",
@@ -414,11 +436,12 @@
             "archived": false,
             "id": 66944590,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T20:30:19Z",
+            "last_commit": "2026-08-28T09:29:23Z",
             "owner": "kulshekhar",
             "repo": "ts-jest",
             "stars": 7075
-          }
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         },
         {
           "node_type": "item",
@@ -433,7 +456,8 @@
             "owner": "microsoft",
             "repo": "TypeScript-Handbook",
             "stars": 4850
-          }
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         },
         {
           "node_type": "item",
@@ -448,14 +472,15 @@
             "owner": "typescript-exercises",
             "repo": "typescript-exercises",
             "stars": 3004
-          }
+          },
+          "first_seen": "2026-08-28T14:32:24.355Z"
         }
       ],
       "title": "Typescript"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:01:35.155Z",
+    "last_updated": "2026-08-28T14:32:24.355Z",
     "original_repository_info": {
       "archived": false,
       "id": 118102098,
@@ -463,7 +488,7 @@
       "last_commit": "2025-07-16T10:29:00Z",
       "owner": "lauragift21",
       "repo": "awesome-learning-resources",
-      "stars": 5764
+      "stars": 5765
     },
     "original_repository_sha": "0e9afa0c8b67df6f8ffa0a8d46847476a56ccd1b",
     "enhanced_repository": "enhansome/enhansome-learning-resources",
