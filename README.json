@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deliver web apps with confidence 🚀",
+            "homepage": "https://angular.dev",
             "id": 24195339,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T09:19:13Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T01:06:10Z",
+            "open_issues": 1147,
             "owner": "angular",
             "repo": "angular",
-            "stars": 101005
+            "stars": 101006,
+            "topics": [
+              "angular",
+              "javascript",
+              "pwa",
+              "typescript",
+              "web",
+              "web-framework",
+              "web-performance"
+            ]
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         },
@@ -26,12 +39,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular Template App with a Router-first architecture",
+            "homepage": "https://AngularForEnterprise.com",
             "id": 116098994,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-19T08:39:00Z",
+            "open_issues": 24,
             "owner": "duluca",
             "repo": "lemon-mart",
-            "stars": 190
+            "stars": 190,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         }
@@ -48,12 +66,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 41999421,
             "language": "HTML",
+            "license": null,
             "last_commit": "2017-03-22T14:13:27Z",
+            "open_issues": 1,
             "owner": "SonarSystems",
             "repo": "Bootstrap-4-Tutorial-Series",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         }
@@ -70,12 +93,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.",
+            "homepage": null,
             "id": 46130927,
             "language": null,
+            "license": null,
             "last_commit": "2021-09-20T21:15:25Z",
+            "open_issues": 12,
             "owner": "Quartz",
             "repo": "bad-data-guide",
-            "stars": 4128
+            "stars": 4127,
+            "topics": [
+              "data",
+              "documentation",
+              "guide",
+              "qz-things"
+            ]
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         }
@@ -92,12 +125,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of commonly used Git commands",
+            "homepage": null,
             "id": 6412729,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-15T00:47:00Z",
+            "open_issues": 10,
             "owner": "joshnh",
             "repo": "Git-Commands",
-            "stars": 5460
+            "stars": 5462,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         }
@@ -114,12 +152,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.",
+            "homepage": "http://twitter.com/inancgumus",
             "id": 153099672,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-24T23:03:52Z",
+            "open_issues": 44,
             "owner": "inancgumus",
             "repo": "learngo",
-            "stars": 20122
+            "stars": 20122,
+            "topics": [
+              "best-practices",
+              "course",
+              "design-patterns",
+              "exercise",
+              "exercises",
+              "go",
+              "golang",
+              "golang-examples",
+              "idiomatic-go",
+              "idioms",
+              "learn-go",
+              "learn-to-code",
+              "learning-by-doing",
+              "learning-go",
+              "learning-golang",
+              "patterns",
+              "patterns-go",
+              "project",
+              "quizzes",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         }
@@ -136,12 +200,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+            "homepage": null,
             "id": 299915642,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2020-09-30T12:46:25Z",
+            "open_issues": 0,
             "owner": "netanmangal",
             "repo": "Awesome-Hacking",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         }
@@ -158,12 +227,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+            "homepage": "https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project",
             "id": 3482588,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-27T15:51:06Z",
+            "open_issues": 13,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73132
+            "stars": 73142,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         },
@@ -174,12 +248,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A curated list of awesome infosec courses and training resources.",
+            "homepage": null,
             "id": 35577029,
             "language": null,
-            "last_commit": "2026-08-15T16:05:29Z",
+            "license": null,
+            "last_commit": "2026-08-28T15:30:27Z",
+            "open_issues": 15,
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5728
+            "stars": 5728,
+            "topics": [
+              "awesome",
+              "courses",
+              "infosec",
+              "lab",
+              "penetration-testing",
+              "pentest",
+              "security",
+              "security-professionals"
+            ]
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         }
@@ -196,12 +284,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+            "homepage": null,
             "id": 126577260,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-26T02:43:08Z",
+            "open_issues": 404,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196575
+            "stars": 196577,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "computer-science",
+              "data-structures",
+              "interview",
+              "interview-preparation",
+              "javascript",
+              "javascript-algorithms"
+            ]
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         },
@@ -212,12 +314,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A book series (2 published editions) on the JS language.",
+            "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
             "id": 14440270,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-02-15T04:36:44Z",
+            "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184747
+            "stars": 184748,
+            "topics": [
+              "async",
+              "book",
+              "book-series",
+              "closures",
+              "education",
+              "es2015",
+              "es6",
+              "javascript",
+              "learn-to-code",
+              "programming",
+              "prototypes",
+              "training-materials",
+              "training-providers"
+            ]
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         },
@@ -228,12 +349,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":star2: ES6 Overview in 350 Bullet Points",
+            "homepage": "https://ponyfoo.com/articles/es6",
             "id": 46495414,
             "language": null,
+            "license": "MIT",
             "last_commit": "2017-06-19T17:50:47Z",
+            "open_issues": 0,
             "owner": "bevacqua",
             "repo": "es6",
-            "stars": 4288
+            "stars": 4287,
+            "topics": [
+              "deep-dive",
+              "es6",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         }
@@ -250,12 +380,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Delightful JavaScript Testing.",
+            "homepage": "https://jestjs.io",
             "id": 15062869,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:51:49Z",
+            "open_issues": 182,
             "owner": "jestjs",
             "repo": "jest",
-            "stars": 45474
+            "stars": 45474,
+            "topics": [
+              "easy",
+              "expectation",
+              "facebook",
+              "immersive",
+              "javascript",
+              "painless",
+              "painless-javascript-testing",
+              "snapshot",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         },
@@ -266,12 +411,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":snowflake: a short introduction to node.js",
+            "homepage": "https://github.com/maxogden/art-of-node#the-art-of-node",
             "id": 8936633,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2020-08-03T14:56:30Z",
+            "open_issues": 15,
             "owner": "max-mapper",
             "repo": "art-of-node",
-            "stars": 9878
+            "stars": 9878,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         },
@@ -282,12 +432,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tips, tricks, and resources for working with Node.js, and the start of an ongoing conversation on how we can improve the Node.js experience on Microsoft platforms.",
+            "homepage": null,
             "id": 45360221,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-12T09:16:18Z",
+            "open_issues": 19,
             "owner": "microsoft",
             "repo": "nodejs-guidelines",
-            "stars": 2496
+            "stars": 2496,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         },
@@ -298,12 +453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "You Don't Know Node.js",
+            "homepage": "http://webapplog.com/you-dont-know-node/",
             "id": 43770860,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-11-27T09:04:15Z",
+            "open_issues": 1,
             "owner": "azat-co",
             "repo": "you-dont-know-node",
-            "stars": 1541
+            "stars": 1541,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         }
@@ -320,12 +480,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roadmap to becoming a React developer",
+            "homepage": null,
             "id": 137583435,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-16T12:34:44Z",
+            "open_issues": 35,
             "owner": "adam-golab",
             "repo": "react-developer-roadmap",
-            "stars": 18920
+            "stars": 18920,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         }
@@ -342,12 +507,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ada Build is curriculum that is intended for anyone who is interested in beginning their journey into coding.",
+            "homepage": null,
             "id": 48063511,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-04-22T01:46:14Z",
+            "open_issues": 27,
             "owner": "Ada-Developers-Academy",
             "repo": "ada-build",
-            "stars": 770
+            "stars": 770,
+            "topics": [
+              "ada-developers-academy",
+              "cs-education",
+              "curriculum"
+            ]
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         }
@@ -364,12 +538,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
+            "homepage": null,
             "id": 51401194,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-02-11T16:45:39Z",
+            "open_issues": 34,
             "owner": "anaibol",
             "repo": "awesome-serverless",
-            "stars": 7585
+            "stars": 7585,
+            "topics": [
+              "cloud",
+              "cloud-computing",
+              "microservice",
+              "nobackend",
+              "serverless-applications",
+              "webservices"
+            ]
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         },
@@ -380,12 +566,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collect papers about serverless computing research",
+            "homepage": null,
             "id": 399335846,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2024-01-15T12:39:59Z",
+            "open_issues": 15,
             "owner": "penghuima",
             "repo": "awesome-serverless-papers",
-            "stars": 221
+            "stars": 221,
+            "topics": [
+              "baas",
+              "backend-as-a-service",
+              "cloud-computing",
+              "edge-comupting",
+              "faas",
+              "function-as-a-service",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         }
@@ -402,12 +601,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+            "homepage": "https://www.typescriptlang.org",
             "id": 20929025,
             "language": "Go",
-            "last_commit": "2026-08-27T23:48:59Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:01:59Z",
+            "open_issues": 5166,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110745
+            "stars": 110758,
+            "topics": [
+              "javascript",
+              "language",
+              "typechecker",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         },
@@ -418,12 +627,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹",
+            "homepage": "https://basarat.gitbook.io/typescript/",
             "id": 32623292,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-29T11:46:59Z",
+            "open_issues": 150,
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21552
+            "stars": 21551,
+            "topics": [
+              "free",
+              "open-source",
+              "typescript",
+              "typescript-book",
+              "typescript-community"
+            ]
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         },
@@ -434,12 +654,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.",
+            "homepage": "https://kulshekhar.github.io/ts-jest",
             "id": 66944590,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:29:23Z",
+            "open_issues": 83,
             "owner": "kulshekhar",
             "repo": "ts-jest",
-            "stars": 7075
+            "stars": 7075,
+            "topics": [
+              "jest",
+              "testing",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         },
@@ -450,12 +679,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Deprecated, please use the TypeScript-Website repo instead",
+            "homepage": "https://github.com/microsoft/TypeScript-Website",
             "id": 33742985,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2020-08-01T19:54:09Z",
+            "open_issues": 181,
             "owner": "microsoft",
             "repo": "TypeScript-Handbook",
-            "stars": 4850
+            "stars": 4851,
+            "topics": [
+              "documentation",
+              "learn",
+              "typescript",
+              "typescript-handbook"
+            ]
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         },
@@ -466,12 +705,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of interactive TypeScript exercises",
+            "homepage": "https://typescript-exercises.github.io",
             "id": 259954158,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-29T12:34:31Z",
+            "open_issues": 22,
             "owner": "typescript-exercises",
             "repo": "typescript-exercises",
-            "stars": 3004
+            "stars": 3004,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
         }
@@ -480,15 +724,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:32:24.355Z",
+    "last_updated": "2026-08-29T04:14:46.821Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🔥 Awesome list of resources on Web Development.",
+      "homepage": null,
       "id": 118102098,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-07-16T10:29:00Z",
+      "open_issues": 27,
       "owner": "lauragift21",
       "repo": "awesome-learning-resources",
-      "stars": 5765
+      "stars": 5765,
+      "topics": [
+        "ai",
+        "awesome-list",
+        "css",
+        "developer-stories",
+        "javascript",
+        "machine-learning",
+        "open-source",
+        "podcast",
+        "pwa",
+        "serverless",
+        "vue"
+      ]
     },
     "original_repository_sha": "0e9afa0c8b67df6f8ffa0a8d46847476a56ccd1b",
     "enhanced_repository": "enhansome/enhansome-learning-resources",
