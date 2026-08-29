@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-29T01:06:10Z",
-            "open_issues": 1147,
+            "open_issues": 1149,
             "owner": "angular",
             "repo": "angular",
             "stars": 101006,
@@ -161,7 +161,7 @@
             "open_issues": 44,
             "owner": "inancgumus",
             "repo": "learngo",
-            "stars": 20122,
+            "stars": 20123,
             "topics": [
               "best-practices",
               "course",
@@ -236,7 +236,7 @@
             "open_issues": 13,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73142,
+            "stars": 73143,
             "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
@@ -323,7 +323,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184748,
+            "stars": 184749,
             "topics": [
               "async",
               "book",
@@ -386,10 +386,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-28T11:51:49Z",
-            "open_issues": 182,
+            "open_issues": 183,
             "owner": "jestjs",
             "repo": "jest",
-            "stars": 45474,
+            "stars": 45473,
             "topics": [
               "easy",
               "expectation",
@@ -607,10 +607,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T00:01:59Z",
-            "open_issues": 5166,
+            "open_issues": 5167,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110758,
+            "stars": 110764,
             "topics": [
               "javascript",
               "language",
@@ -636,7 +636,7 @@
             "open_issues": 150,
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21551,
+            "stars": 21552,
             "topics": [
               "free",
               "open-source",
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:14:46.821Z",
+    "last_updated": "2026-08-29T09:18:48.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 Awesome list of resources on Web Development.",
