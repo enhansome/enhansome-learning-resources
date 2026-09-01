@@ -15,11 +15,11 @@
             "id": 24195339,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T01:06:10Z",
-            "open_issues": 1161,
+            "last_commit": "2026-09-01T03:33:23Z",
+            "open_issues": 1152,
             "owner": "angular",
             "repo": "angular",
-            "stars": 101014,
+            "stars": 101018,
             "topics": [
               "angular",
               "javascript",
@@ -161,7 +161,7 @@
             "open_issues": 44,
             "owner": "inancgumus",
             "repo": "learngo",
-            "stars": 20126,
+            "stars": 20128,
             "topics": [
               "best-practices",
               "course",
@@ -232,11 +232,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-30T16:15:59Z",
+            "last_commit": "2026-08-31T11:15:26Z",
             "open_issues": 13,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73188,
+            "stars": 73208,
             "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
@@ -257,7 +257,7 @@
             "open_issues": 17,
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5730,
+            "stars": 5731,
             "topics": [
               "awesome",
               "courses",
@@ -293,7 +293,7 @@
             "open_issues": 404,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196580,
+            "stars": 196583,
             "topics": [
               "algorithm",
               "algorithms",
@@ -323,7 +323,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184760,
+            "stars": 184770,
             "topics": [
               "async",
               "book",
@@ -385,11 +385,11 @@
             "id": 15062869,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T00:50:34Z",
+            "last_commit": "2026-09-01T07:15:52Z",
             "open_issues": 187,
             "owner": "jestjs",
             "repo": "jest",
-            "stars": 45474,
+            "stars": 45477,
             "topics": [
               "easy",
               "expectation",
@@ -489,7 +489,7 @@
             "open_issues": 35,
             "owner": "adam-golab",
             "repo": "react-developer-roadmap",
-            "stars": 18920,
+            "stars": 18922,
             "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
@@ -606,11 +606,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T00:57:19Z",
-            "open_issues": 5177,
+            "last_commit": "2026-09-01T00:03:52Z",
+            "open_issues": 5167,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110805,
+            "stars": 110829,
             "topics": [
               "javascript",
               "language",
@@ -659,7 +659,7 @@
             "id": 66944590,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T02:06:20Z",
+            "last_commit": "2026-08-31T21:29:33Z",
             "open_issues": 86,
             "owner": "kulshekhar",
             "repo": "ts-jest",
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T08:51:18.602Z",
+    "last_updated": "2026-09-01T07:57:13.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 Awesome list of resources on Web Development.",
@@ -733,10 +733,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2025-07-16T10:29:00Z",
-      "open_issues": 28,
+      "open_issues": 27,
       "owner": "lauragift21",
       "repo": "awesome-learning-resources",
-      "stars": 5764,
+      "stars": 5765,
       "topics": [
         "ai",
         "awesome-list",
