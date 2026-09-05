@@ -15,11 +15,11 @@
             "id": 24195339,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T02:40:54Z",
-            "open_issues": 1156,
+            "last_commit": "2026-09-04T16:02:07Z",
+            "open_issues": 1142,
             "owner": "angular",
             "repo": "angular",
-            "stars": 101009,
+            "stars": 101010,
             "topics": [
               "angular",
               "javascript",
@@ -102,7 +102,7 @@
             "open_issues": 12,
             "owner": "Quartz",
             "repo": "bad-data-guide",
-            "stars": 4127,
+            "stars": 4128,
             "topics": [
               "data",
               "documentation",
@@ -161,7 +161,7 @@
             "open_issues": 44,
             "owner": "inancgumus",
             "repo": "learngo",
-            "stars": 20129,
+            "stars": 20130,
             "topics": [
               "best-practices",
               "course",
@@ -232,11 +232,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-03T11:15:20Z",
+            "last_commit": "2026-09-04T11:15:13Z",
             "open_issues": 13,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73265,
+            "stars": 73284,
             "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
@@ -257,7 +257,7 @@
             "open_issues": 18,
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5739,
+            "stars": 5740,
             "topics": [
               "awesome",
               "courses",
@@ -293,7 +293,7 @@
             "open_issues": 403,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196611,
+            "stars": 196617,
             "topics": [
               "algorithm",
               "algorithms",
@@ -323,7 +323,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184806,
+            "stars": 184810,
             "topics": [
               "async",
               "book",
@@ -358,7 +358,7 @@
             "open_issues": 0,
             "owner": "bevacqua",
             "repo": "es6",
-            "stars": 4287,
+            "stars": 4288,
             "topics": [
               "deep-dive",
               "es6",
@@ -389,7 +389,7 @@
             "open_issues": 189,
             "owner": "jestjs",
             "repo": "jest",
-            "stars": 45470,
+            "stars": 45475,
             "topics": [
               "easy",
               "expectation",
@@ -606,11 +606,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T00:58:49Z",
-            "open_issues": 5135,
+            "last_commit": "2026-09-05T00:22:45Z",
+            "open_issues": 5114,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110881,
+            "stars": 110893,
             "topics": [
               "javascript",
               "language",
@@ -659,8 +659,8 @@
             "id": 66944590,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T19:45:55Z",
-            "open_issues": 84,
+            "last_commit": "2026-09-05T05:01:35Z",
+            "open_issues": 85,
             "owner": "kulshekhar",
             "repo": "ts-jest",
             "stars": 7075,
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T07:23:10.595Z",
+    "last_updated": "2026-09-05T07:04:52.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 Awesome list of resources on Web Development.",
@@ -736,7 +736,7 @@
       "open_issues": 28,
       "owner": "lauragift21",
       "repo": "awesome-learning-resources",
-      "stars": 5765,
+      "stars": 5766,
       "topics": [
         "ai",
         "awesome-list",
