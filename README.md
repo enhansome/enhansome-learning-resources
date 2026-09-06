@@ -89,7 +89,7 @@
 
 ## Angular
 
-* [Angular's Source Code](https://github.com/angular/angular) ⭐ 101,010 | 🐛 1,142 | 🌐 TypeScript | 📅 2026-09-04 Maintained by Google
+* [Angular's Source Code](https://github.com/angular/angular) ⭐ 101,011 | 🐛 1,152 | 🌐 TypeScript | 📅 2026-09-04 Maintained by Google
 * [Sample Angular Starter App](https://github.com/duluca/lemon-mart) ⭐ 191 | 🐛 24 | 🌐 TypeScript | 📅 2026-01-19
 * [Official Angular Quickstart](https://angular.io/guide/quickstart)
 * [Angular Console](https://angularconsole.com/) A nifty UI for the Angular CLI
@@ -334,8 +334,8 @@
 
 ## InfoSec
 
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,284 | 🐛 13 | 🌐 PHP | 📅 2026-09-04
-* [awesome-infosec](https://github.com/onlurking/awesome-infosec) ⭐ 5,740 | 🐛 18 | 📅 2026-08-28
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,302 | 🐛 13 | 🌐 PHP | 📅 2026-09-05
+* [awesome-infosec](https://github.com/onlurking/awesome-infosec) ⭐ 5,739 | 🐛 18 | 📅 2026-08-28
 * [OWASP Top 10](https://www.owasp.org/index.php/Top_10-2017_Top_10)
 * [Beggining with Reverse Engineering](https://beginners.re/)
 * [CTF field guide](https://trailofbits.github.io/ctf/)
@@ -350,8 +350,8 @@
 
 ## JavaScript
 
-* [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,617 | 🐛 403 | 🌐 JavaScript | 📅 2026-07-26
-* [YDKJS](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,810 | 🐛 2 | 📅 2026-02-15
+* [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,624 | 🐛 404 | 🌐 JavaScript | 📅 2026-07-26
+* [YDKJS](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,819 | 🐛 2 | 📅 2026-02-15
 * [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6) ⭐ 4,288 | 🐛 0 | 📅 2017-06-19
 * [FreeCodeCamp](https://freecodecamp.com)
 * [The Odin Project](https://www.theodinproject.com/)
@@ -396,7 +396,7 @@
 
 ## Kotlin
 
-* [Kotlin Coding Puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) ⭐ 1,056 | 🐛 16 | 🌐 Kotlin | 📅 2026-09-04 Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
+* [Kotlin Coding Puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) ⭐ 1,056 | 🐛 1 | 🌐 Kotlin | 📅 2026-09-05 Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
 * [Kotlin by Reddit](https://www.reddit.com/r/Kotlin/)
 * [Kotlin Academy](https://blog.kotlin-academy.com/)
 * [Kotlin by Hackr.io](https://hackr.io/tutorials/learn-kotlin)
@@ -444,8 +444,8 @@
 
 ## NodeJS
 
-* [Node.js Testing with Jest](https://github.com/facebook/jest) ⭐ 45,475 | 🐛 189 | 🌐 TypeScript | 📅 2026-09-03
-* [The Art of Node](https://github.com/maxogden/art-of-node) ⭐ 9,878 | 🐛 15 | 🌐 JavaScript | 📅 2020-08-03
+* [Node.js Testing with Jest](https://github.com/facebook/jest) ⭐ 45,474 | 🐛 193 | 🌐 TypeScript | 📅 2026-09-03
+* [The Art of Node](https://github.com/maxogden/art-of-node) ⭐ 9,877 | 🐛 15 | 🌐 JavaScript | 📅 2020-08-03
 * [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) ⚠️ Archived
 * [You don't know Node.js](https://github.com/azat-co/you-dont-know-node) ⭐ 1,541 | 🐛 1 | 🌐 Python | 📅 2018-11-27
 * [Learn Node by Wes Bos](https://learnnode.com/)
@@ -555,7 +555,7 @@
 
 ## ReactJS
 
-* [Roadmap to becoming a React developer](https://github.com/adam-golab/react-developer-roadmap) ⭐ 18,920 | 🐛 35 | 🌐 JavaScript | 📅 2024-02-16
+* [Roadmap to becoming a React developer](https://github.com/adam-golab/react-developer-roadmap) ⭐ 18,919 | 🐛 35 | 🌐 JavaScript | 📅 2024-02-16
 * [React for Beginners by Wes Bos](https://reactforbeginners.com/)
 * [Learn React](https://scrimba.com/course/glearnreact)
 * [The React BootCamp](https://scrimba.com/course/greact)
@@ -612,7 +612,7 @@
 
 ## Serverless
 
-* [Awesome Serverless](https://github.com/anaibol/awesome-serverless) ⭐ 7,585 | 🐛 35 | 📅 2026-02-11
+* [Awesome Serverless](https://github.com/anaibol/awesome-serverless) ⭐ 7,583 | 🐛 35 | 📅 2026-02-11
 * [Awesome Serverless Papers](https://github.com/penghuima/awesome-serverless-papers) ⭐ 221 | 🐛 15 | 📅 2024-01-15
 * [Serverless](https://serverless.com/)
 * [genezio](https://genez.io/?utm_source=awesome-serverless-github\&utm_medium=website\&utm_campaign=awesome-serverless)
@@ -687,9 +687,9 @@
 
 ## Typescript
 
-* [Typescript Wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 110,893 | 🐛 5,114 | 🌐 Go | 📅 2026-09-05
-* [Typescript Deep Dive (Book)](https://github.com/basarat/typescript-book) ⭐ 21,552 | 🐛 150 | 🌐 TypeScript | 📅 2024-06-29
-* [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest) ⭐ 7,075 | 🐛 85 | 🌐 TypeScript | 📅 2026-09-05
+* [Typescript Wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 110,918 | 🐛 5,095 | 🌐 Go | 📅 2026-09-05
+* [Typescript Deep Dive (Book)](https://github.com/basarat/typescript-book) ⭐ 21,553 | 🐛 150 | 🌐 TypeScript | 📅 2024-06-29
+* [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest) ⭐ 7,075 | 🐛 86 | 🌐 TypeScript | 📅 2026-09-05
 * [Typescript Handbook](https://github.com/Microsoft/TypeScript-Handbook/blob/master/pages) ⚠️ Archived
 * [Typescript Exercises](https://github.com/mdevils/typescript-exercises) ⭐ 3,005 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-29
 * [Complete Typing Guide](https://blog.angular-university.io/typescript-2-type-system-how-do-type-definitions-work-in-npm-when-to-use-types-and-why-what-are-compiler-opt-in-types/)
@@ -708,7 +708,7 @@
 * [Routing and Route Protection in Server-Rendered Vue Apps Using Nuxt.js](https://css-tricks.com/routing-route-protection-server-rendered-vue-apps-using-nuxt-js/#comment-1615086)
 * [Guide to Learning Vue](https://css-tricks.com/guides/vue/)
 * [Made with Vue.js](https://madewithvuejs.com/)
-* [Awesome Vue](https://github.com/vuejs/awesome-vue) ⭐ 73,548 | 🐛 105 | 📅 2026-07-24
+* [Awesome Vue](https://github.com/vuejs/awesome-vue) ⭐ 73,549 | 🐛 105 | 📅 2026-07-24
 * [4 Awesome Things You Can Do with the Vue.js CLI](https://www.telerik.com/blogs/4-awesome-things-you-can-do-with-the-vuejs-cli)
 * [Vue.js Cookbook](https://vuejs.org/v2/cookbook/)
 * [From Zero to Hero with Vue - But first, why Vue?](https://medium.freecodecamp.org/from-zero-to-hero-with-vue-why-vue-8c7e981b494)
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
