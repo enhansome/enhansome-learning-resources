@@ -1,6 +1,6 @@
 # Awesome Learning Resources with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lauragift21/awesome-learning-resources) ⭐ 5,767 | 🐛 28 | 📅 2025-07-16 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lauragift21/awesome-learning-resources) ⭐ 5,766 | 🐛 28 | 📅 2025-07-16 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 [Preview on the web](https://nicedoc.io/lauragift21/awesome-learning-resources)
 
@@ -89,7 +89,7 @@
 
 ## Angular
 
-* [Angular's Source Code](https://github.com/angular/angular) ⭐ 101,017 | 🐛 1,174 | 🌐 TypeScript | 📅 2026-09-04 Maintained by Google
+* [Angular's Source Code](https://github.com/angular/angular) ⭐ 101,007 | 🐛 1,187 | 🌐 TypeScript | 📅 2026-09-04 Maintained by Google
 * [Sample Angular Starter App](https://github.com/duluca/lemon-mart) ⭐ 191 | 🐛 24 | 🌐 TypeScript | 📅 2026-01-19
 * [Official Angular Quickstart](https://angular.io/guide/quickstart)
 * [Angular Console](https://angularconsole.com/) A nifty UI for the Angular CLI
@@ -301,7 +301,7 @@
 
 ## Golang
 
-* [1000+ Go exercises, examples, and quizzes](https://github.com/inancgumus/learngo) ⭐ 20,130 | 🐛 44 | 🌐 Go | 📅 2025-06-24
+* [1000+ Go exercises, examples, and quizzes](https://github.com/inancgumus/learngo) ⭐ 20,131 | 🐛 44 | 🌐 Go | 📅 2025-06-24
 * [A Tour of Go](https://tour.golang.org/welcome/1)
 * [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/)
 * [Go by Example](https://gobyexample.com/)
@@ -334,8 +334,8 @@
 
 ## InfoSec
 
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,358 | 🐛 13 | 🌐 PHP | 📅 2026-09-07
-* [awesome-infosec](https://github.com/onlurking/awesome-infosec) ⭐ 5,740 | 🐛 17 | 📅 2026-08-28
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,385 | 🐛 14 | 🌐 PHP | 📅 2026-09-08
+* [awesome-infosec](https://github.com/onlurking/awesome-infosec) ⭐ 5,741 | 🐛 17 | 📅 2026-08-28
 * [OWASP Top 10](https://www.owasp.org/index.php/Top_10-2017_Top_10)
 * [Beggining with Reverse Engineering](https://beginners.re/)
 * [CTF field guide](https://trailofbits.github.io/ctf/)
@@ -350,8 +350,8 @@
 
 ## JavaScript
 
-* [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,656 | 🐛 403 | 🌐 JavaScript | 📅 2026-07-26
-* [YDKJS](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,835 | 🐛 2 | 📅 2026-02-15
+* [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,663 | 🐛 403 | 🌐 JavaScript | 📅 2026-07-26
+* [YDKJS](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,843 | 🐛 2 | 📅 2026-02-15
 * [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6) ⭐ 4,285 | 🐛 0 | 📅 2017-06-19
 * [FreeCodeCamp](https://freecodecamp.com)
 * [The Odin Project](https://www.theodinproject.com/)
@@ -444,8 +444,8 @@
 
 ## NodeJS
 
-* [Node.js Testing with Jest](https://github.com/facebook/jest) ⭐ 45,479 | 🐛 194 | 🌐 TypeScript | 📅 2026-09-07
-* [The Art of Node](https://github.com/maxogden/art-of-node) ⭐ 9,876 | 🐛 15 | 🌐 JavaScript | 📅 2020-08-03
+* [Node.js Testing with Jest](https://github.com/facebook/jest) ⭐ 45,469 | 🐛 195 | 🌐 TypeScript | 📅 2026-09-07
+* [The Art of Node](https://github.com/maxogden/art-of-node) ⭐ 9,875 | 🐛 15 | 🌐 JavaScript | 📅 2020-08-03
 * [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) ⚠️ Archived
 * [You don't know Node.js](https://github.com/azat-co/you-dont-know-node) ⭐ 1,541 | 🐛 1 | 🌐 Python | 📅 2018-11-27
 * [Learn Node by Wes Bos](https://learnnode.com/)
@@ -612,7 +612,7 @@
 
 ## Serverless
 
-* [Awesome Serverless](https://github.com/anaibol/awesome-serverless) ⭐ 7,583 | 🐛 35 | 📅 2026-02-11
+* [Awesome Serverless](https://github.com/anaibol/awesome-serverless) ⭐ 7,584 | 🐛 35 | 📅 2026-02-11
 * [Awesome Serverless Papers](https://github.com/penghuima/awesome-serverless-papers) ⭐ 221 | 🐛 15 | 📅 2024-01-15
 * [Serverless](https://serverless.com/)
 * [genezio](https://genez.io/?utm_source=awesome-serverless-github\&utm_medium=website\&utm_campaign=awesome-serverless)
@@ -650,7 +650,7 @@
 * [Remove Background from Images](https://www.remove.bg/)
 * [Creative Coding Experiments Blog](https://tympanus.net/codrops/)
 * [CanIUse](https://caniuse.com/)
-* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,766 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29
+* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,765 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29
 * [Cool Tech Confrence Talks](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 
 ## Startups
@@ -687,9 +687,9 @@
 
 ## Typescript
 
-* [Typescript Wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 110,981 | 🐛 5,069 | 🌐 Go | 📅 2026-09-05
-* [Typescript Deep Dive (Book)](https://github.com/basarat/typescript-book) ⭐ 21,555 | 🐛 150 | 🌐 TypeScript | 📅 2024-06-29
-* [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest) ⭐ 7,075 | 🐛 86 | 🌐 TypeScript | 📅 2026-09-07
+* [Typescript Wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 110,976 | 🐛 5,046 | 🌐 Go | 📅 2026-09-09
+* [Typescript Deep Dive (Book)](https://github.com/basarat/typescript-book) ⭐ 21,553 | 🐛 150 | 🌐 TypeScript | 📅 2024-06-29
+* [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest) ⭐ 7,075 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-09
 * [Typescript Handbook](https://github.com/Microsoft/TypeScript-Handbook/blob/master/pages) ⚠️ Archived
 * [Typescript Exercises](https://github.com/mdevils/typescript-exercises) ⭐ 3,005 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-29
 * [Complete Typing Guide](https://blog.angular-university.io/typescript-2-type-system-how-do-type-definitions-work-in-npm-when-to-use-types-and-why-what-are-compiler-opt-in-types/)
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
