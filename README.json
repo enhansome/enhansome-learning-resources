@@ -15,11 +15,11 @@
             "id": 24195339,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T19:12:09Z",
-            "open_issues": 1189,
+            "last_commit": "2026-09-17T21:48:20Z",
+            "open_issues": 1187,
             "owner": "angular",
             "repo": "angular",
-            "stars": 101007,
+            "stars": 101010,
             "topics": [
               "angular",
               "javascript",
@@ -102,7 +102,7 @@
             "open_issues": 12,
             "owner": "Quartz",
             "repo": "bad-data-guide",
-            "stars": 4128,
+            "stars": 4129,
             "topics": [
               "data",
               "documentation",
@@ -134,7 +134,7 @@
             "open_issues": 10,
             "owner": "joshnh",
             "repo": "Git-Commands",
-            "stars": 5464,
+            "stars": 5462,
             "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
@@ -161,7 +161,7 @@
             "open_issues": 44,
             "owner": "inancgumus",
             "repo": "learngo",
-            "stars": 20142,
+            "stars": 20146,
             "topics": [
               "best-practices",
               "course",
@@ -232,11 +232,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-16T11:16:17Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-17T16:19:45Z",
+            "open_issues": 9,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73561,
+            "stars": 73582,
             "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
@@ -290,10 +290,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-07-26T02:43:08Z",
-            "open_issues": 406,
+            "open_issues": 405,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196749,
+            "stars": 196765,
             "topics": [
               "algorithm",
               "algorithms",
@@ -323,7 +323,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184914,
+            "stars": 184923,
             "topics": [
               "async",
               "book",
@@ -385,11 +385,11 @@
             "id": 15062869,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T10:23:13Z",
-            "open_issues": 192,
+            "last_commit": "2026-09-18T01:25:58Z",
+            "open_issues": 194,
             "owner": "jestjs",
             "repo": "jest",
-            "stars": 45458,
+            "stars": 45460,
             "topics": [
               "easy",
               "expectation",
@@ -606,11 +606,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T01:41:57Z",
-            "open_issues": 5070,
+            "last_commit": "2026-09-18T03:09:48Z",
+            "open_issues": 5067,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111085,
+            "stars": 111097,
             "topics": [
               "javascript",
               "language",
@@ -659,11 +659,11 @@
             "id": 66944590,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T01:39:04Z",
-            "open_issues": 85,
+            "last_commit": "2026-09-17T15:12:39Z",
+            "open_issues": 83,
             "owner": "kulshekhar",
             "repo": "ts-jest",
-            "stars": 7073,
+            "stars": 7072,
             "topics": [
               "jest",
               "testing",
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T07:56:41.076Z",
+    "last_updated": "2026-09-18T07:34:39.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 Awesome list of resources on Web Development.",
