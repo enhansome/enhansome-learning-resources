@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-25T23:56:17Z",
-            "open_issues": 1177,
+            "open_issues": 1199,
             "owner": "angular",
             "repo": "angular",
-            "stars": 101034,
+            "stars": 101030,
             "topics": [
               "angular",
               "javascript",
@@ -161,7 +161,7 @@
             "open_issues": 44,
             "owner": "inancgumus",
             "repo": "learngo",
-            "stars": 20154,
+            "stars": 20155,
             "topics": [
               "best-practices",
               "course",
@@ -232,11 +232,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-26T16:17:56Z",
+            "last_commit": "2026-09-27T11:14:33Z",
             "open_issues": 9,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73762,
+            "stars": 73795,
             "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
@@ -257,7 +257,7 @@
             "open_issues": 18,
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5753,
+            "stars": 5755,
             "topics": [
               "awesome",
               "courses",
@@ -293,7 +293,7 @@
             "open_issues": 407,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196822,
+            "stars": 196825,
             "topics": [
               "algorithm",
               "algorithms",
@@ -323,7 +323,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184977,
+            "stars": 184979,
             "topics": [
               "async",
               "book",
@@ -385,11 +385,11 @@
             "id": 15062869,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T23:13:16Z",
-            "open_issues": 213,
+            "last_commit": "2026-09-27T22:46:58Z",
+            "open_issues": 214,
             "owner": "jestjs",
             "repo": "jest",
-            "stars": 45465,
+            "stars": 45464,
             "topics": [
               "easy",
               "expectation",
@@ -489,7 +489,7 @@
             "open_issues": 35,
             "owner": "adam-golab",
             "repo": "react-developer-roadmap",
-            "stars": 18911,
+            "stars": 18910,
             "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
@@ -544,7 +544,7 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2026-02-11T16:45:39Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "anaibol",
             "repo": "awesome-serverless",
             "stars": 7586,
@@ -606,11 +606,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T23:51:52Z",
-            "open_issues": 5039,
+            "last_commit": "2026-09-28T07:59:29Z",
+            "open_issues": 5052,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111231,
+            "stars": 111250,
             "topics": [
               "javascript",
               "language",
@@ -636,7 +636,7 @@
             "open_issues": 150,
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21557,
+            "stars": 21556,
             "topics": [
               "free",
               "open-source",
@@ -659,8 +659,8 @@
             "id": 66944590,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-26T11:56:13Z",
-            "open_issues": 77,
+            "last_commit": "2026-09-27T14:53:06Z",
+            "open_issues": 78,
             "owner": "kulshekhar",
             "repo": "ts-jest",
             "stars": 7071,
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T08:29:38.982Z",
+    "last_updated": "2026-09-28T08:54:27.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 Awesome list of resources on Web Development.",
@@ -733,7 +733,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2025-07-16T10:29:00Z",
-      "open_issues": 32,
+      "open_issues": 33,
       "owner": "lauragift21",
       "repo": "awesome-learning-resources",
       "stars": 5771,
