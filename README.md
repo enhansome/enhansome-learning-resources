@@ -89,7 +89,7 @@
 
 ## Angular
 
-* [Angular's Source Code](https://github.com/angular/angular) ⭐ 101,027 | 🐛 1,140 | 🌐 TypeScript | 📅 2026-09-30 Maintained by Google
+* [Angular's Source Code](https://github.com/angular/angular) ⭐ 101,028 | 🐛 1,146 | 🌐 TypeScript | 📅 2026-09-30 Maintained by Google
 * [Sample Angular Starter App](https://github.com/duluca/lemon-mart) ⭐ 191 | 🐛 24 | 🌐 TypeScript | 📅 2026-01-19
 * [Official Angular Quickstart](https://angular.io/guide/quickstart)
 * [Angular Console](https://angularconsole.com/) A nifty UI for the Angular CLI
@@ -187,7 +187,7 @@
 
 ## Data Science
 
-* [The Quartz Guide to Bad data](https://github.com/Quartz/bad-data-guide) ⭐ 4,128 | 🐛 12 | 📅 2021-09-20
+* [The Quartz Guide to Bad data](https://github.com/Quartz/bad-data-guide) ⭐ 4,127 | 🐛 12 | 📅 2021-09-20
 * [DataCamp](https://www.datacamp.com/)
 * [New Coder](https://newcoder.io/)
 * [Data Analysis in Python with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
@@ -301,7 +301,7 @@
 
 ## Golang
 
-* [1000+ Go exercises, examples, and quizzes](https://github.com/inancgumus/learngo) ⭐ 20,158 | 🐛 44 | 🌐 Go | 📅 2025-06-24
+* [1000+ Go exercises, examples, and quizzes](https://github.com/inancgumus/learngo) ⭐ 20,159 | 🐛 44 | 🌐 Go | 📅 2025-06-24
 * [A Tour of Go](https://tour.golang.org/welcome/1)
 * [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/)
 * [Go by Example](https://gobyexample.com/)
@@ -334,8 +334,8 @@
 
 ## InfoSec
 
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,842 | 🐛 9 | 🌐 PHP | 📅 2026-09-29
-* [awesome-infosec](https://github.com/onlurking/awesome-infosec) ⭐ 5,755 | 🐛 19 | 📅 2026-08-28
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,864 | 🐛 9 | 🌐 PHP | 📅 2026-09-30
+* [awesome-infosec](https://github.com/onlurking/awesome-infosec) ⭐ 5,756 | 🐛 19 | 📅 2026-08-28
 * [OWASP Top 10](https://www.owasp.org/index.php/Top_10-2017_Top_10)
 * [Beggining with Reverse Engineering](https://beginners.re/)
 * [CTF field guide](https://trailofbits.github.io/ctf/)
@@ -350,8 +350,8 @@
 
 ## JavaScript
 
-* [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,846 | 🐛 408 | 🌐 JavaScript | 📅 2026-07-26
-* [YDKJS](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,996 | 🐛 2 | 📅 2026-02-15
+* [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,860 | 🐛 408 | 🌐 JavaScript | 📅 2026-07-26
+* [YDKJS](https://github.com/getify/You-Dont-Know-JS) ⭐ 185,006 | 🐛 2 | 📅 2026-02-15
 * [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6) ⭐ 4,280 | 🐛 0 | 📅 2017-06-19
 * [FreeCodeCamp](https://freecodecamp.com)
 * [The Odin Project](https://www.theodinproject.com/)
@@ -444,8 +444,8 @@
 
 ## NodeJS
 
-* [Node.js Testing with Jest](https://github.com/facebook/jest) ⭐ 45,462 | 🐛 221 | 🌐 TypeScript | 📅 2026-09-27
-* [The Art of Node](https://github.com/maxogden/art-of-node) ⭐ 9,870 | 🐛 15 | 🌐 JavaScript | 📅 2020-08-03
+* [Node.js Testing with Jest](https://github.com/facebook/jest) ⭐ 45,459 | 🐛 221 | 🌐 TypeScript | 📅 2026-09-27
+* [The Art of Node](https://github.com/maxogden/art-of-node) ⭐ 9,869 | 🐛 15 | 🌐 JavaScript | 📅 2020-08-03
 * [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) ⚠️ Archived
 * [You don't know Node.js](https://github.com/azat-co/you-dont-know-node) ⭐ 1,542 | 🐛 1 | 🌐 Python | 📅 2018-11-27
 * [Learn Node by Wes Bos](https://learnnode.com/)
@@ -612,7 +612,7 @@
 
 ## Serverless
 
-* [Awesome Serverless](https://github.com/anaibol/awesome-serverless) ⭐ 7,586 | 🐛 41 | 📅 2026-02-11
+* [Awesome Serverless](https://github.com/anaibol/awesome-serverless) ⭐ 7,586 | 🐛 42 | 📅 2026-02-11
 * [Awesome Serverless Papers](https://github.com/penghuima/awesome-serverless-papers) ⭐ 221 | 🐛 15 | 📅 2024-01-15
 * [Serverless](https://serverless.com/)
 * [genezio](https://genez.io/?utm_source=awesome-serverless-github\&utm_medium=website\&utm_campaign=awesome-serverless)
@@ -650,7 +650,7 @@
 * [Remove Background from Images](https://www.remove.bg/)
 * [Creative Coding Experiments Blog](https://tympanus.net/codrops/)
 * [CanIUse](https://caniuse.com/)
-* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,760 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29
+* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,761 | 🐛 123 | 🌐 JavaScript | 📅 2024-07-29
 * [Cool Tech Confrence Talks](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 
 ## Startups
@@ -687,11 +687,11 @@
 
 ## Typescript
 
-* [Typescript Wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 111,284 | 🐛 5,049 | 🌐 Go | 📅 2026-09-30
-* [Typescript Deep Dive (Book)](https://github.com/basarat/typescript-book) ⭐ 21,557 | 🐛 150 | 🌐 TypeScript | 📅 2024-06-29
-* [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest) ⭐ 7,072 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-29
+* [Typescript Wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 111,291 | 🐛 5,044 | 🌐 Go | 📅 2026-10-01
+* [Typescript Deep Dive (Book)](https://github.com/basarat/typescript-book) ⭐ 21,559 | 🐛 150 | 🌐 TypeScript | 📅 2024-06-29
+* [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest) ⭐ 7,071 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-29
 * [Typescript Handbook](https://github.com/Microsoft/TypeScript-Handbook/blob/master/pages) ⚠️ Archived
-* [Typescript Exercises](https://github.com/mdevils/typescript-exercises) ⭐ 3,009 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-29
+* [Typescript Exercises](https://github.com/mdevils/typescript-exercises) ⭐ 3,008 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-29
 * [Complete Typing Guide](https://blog.angular-university.io/typescript-2-type-system-how-do-type-definitions-work-in-npm-when-to-use-types-and-why-what-are-compiler-opt-in-types/)
 * [Starter Template for Typescript and Node.js](https://github.com/Microsoft/TypeScript-Node-Starter)
 * [Typescript Debugging in VSCode](https://fettblog.eu/typescript-node-visual-studio-code/)
@@ -708,7 +708,7 @@
 * [Routing and Route Protection in Server-Rendered Vue Apps Using Nuxt.js](https://css-tricks.com/routing-route-protection-server-rendered-vue-apps-using-nuxt-js/#comment-1615086)
 * [Guide to Learning Vue](https://css-tricks.com/guides/vue/)
 * [Made with Vue.js](https://madewithvuejs.com/)
-* [Awesome Vue](https://github.com/vuejs/awesome-vue) ⭐ 73,543 | 🐛 85 | 📅 2026-09-24
+* [Awesome Vue](https://github.com/vuejs/awesome-vue) ⭐ 73,539 | 🐛 85 | 📅 2026-09-24
 * [4 Awesome Things You Can Do with the Vue.js CLI](https://www.telerik.com/blogs/4-awesome-things-you-can-do-with-the-vuejs-cli)
 * [Vue.js Cookbook](https://vuejs.org/v2/cookbook/)
 * [From Zero to Hero with Vue - But first, why Vue?](https://medium.freecodecamp.org/from-zero-to-hero-with-vue-why-vue-8c7e981b494)
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
