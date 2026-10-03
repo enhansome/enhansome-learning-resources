@@ -19,7 +19,7 @@
             "open_issues": 1142,
             "owner": "angular",
             "repo": "angular",
-            "stars": 101013,
+            "stars": 101015,
             "topics": [
               "angular",
               "javascript",
@@ -236,7 +236,7 @@
             "open_issues": 9,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73893,
+            "stars": 73896,
             "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
@@ -257,7 +257,7 @@
             "open_issues": 19,
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5754,
+            "stars": 5755,
             "topics": [
               "awesome",
               "courses",
@@ -293,7 +293,7 @@
             "open_issues": 408,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196867,
+            "stars": 196868,
             "topics": [
               "algorithm",
               "algorithms",
@@ -386,10 +386,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T10:56:40Z",
-            "open_issues": 224,
+            "open_issues": 223,
             "owner": "jestjs",
             "repo": "jest",
-            "stars": 45457,
+            "stars": 45456,
             "topics": [
               "easy",
               "expectation",
@@ -607,10 +607,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-03T04:24:16Z",
-            "open_issues": 5052,
+            "open_issues": 5053,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111314,
+            "stars": 111317,
             "topics": [
               "javascript",
               "language",
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:54:06.208Z",
+    "last_updated": "2026-10-03T08:28:56.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 Awesome list of resources on Web Development.",

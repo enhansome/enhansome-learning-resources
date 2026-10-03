@@ -89,7 +89,7 @@
 
 ## Angular
 
-* [Angular's Source Code](https://github.com/angular/angular) ⭐ 101,013 | 🐛 1,142 | 🌐 TypeScript | 📅 2026-10-02 Maintained by Google
+* [Angular's Source Code](https://github.com/angular/angular) ⭐ 101,015 | 🐛 1,142 | 🌐 TypeScript | 📅 2026-10-02 Maintained by Google
 * [Sample Angular Starter App](https://github.com/duluca/lemon-mart) ⭐ 191 | 🐛 24 | 🌐 TypeScript | 📅 2026-01-19
 * [Official Angular Quickstart](https://angular.io/guide/quickstart)
 * [Angular Console](https://angularconsole.com/) A nifty UI for the Angular CLI
@@ -334,8 +334,8 @@
 
 ## InfoSec
 
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,893 | 🐛 9 | 🌐 PHP | 📅 2026-10-02
-* [awesome-infosec](https://github.com/onlurking/awesome-infosec) ⭐ 5,754 | 🐛 19 | 📅 2026-08-28
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,896 | 🐛 9 | 🌐 PHP | 📅 2026-10-02
+* [awesome-infosec](https://github.com/onlurking/awesome-infosec) ⭐ 5,755 | 🐛 19 | 📅 2026-08-28
 * [OWASP Top 10](https://www.owasp.org/index.php/Top_10-2017_Top_10)
 * [Beggining with Reverse Engineering](https://beginners.re/)
 * [CTF field guide](https://trailofbits.github.io/ctf/)
@@ -350,7 +350,7 @@
 
 ## JavaScript
 
-* [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,867 | 🐛 408 | 🌐 JavaScript | 📅 2026-07-26
+* [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,868 | 🐛 408 | 🌐 JavaScript | 📅 2026-07-26
 * [YDKJS](https://github.com/getify/You-Dont-Know-JS) ⭐ 185,009 | 🐛 2 | 📅 2026-02-15
 * [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6) ⭐ 4,280 | 🐛 0 | 📅 2017-06-19
 * [FreeCodeCamp](https://freecodecamp.com)
@@ -444,7 +444,7 @@
 
 ## NodeJS
 
-* [Node.js Testing with Jest](https://github.com/facebook/jest) ⭐ 45,457 | 🐛 224 | 🌐 TypeScript | 📅 2026-10-02
+* [Node.js Testing with Jest](https://github.com/facebook/jest) ⭐ 45,456 | 🐛 223 | 🌐 TypeScript | 📅 2026-10-02
 * [The Art of Node](https://github.com/maxogden/art-of-node) ⭐ 9,868 | 🐛 15 | 🌐 JavaScript | 📅 2020-08-03
 * [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) ⚠️ Archived
 * [You don't know Node.js](https://github.com/azat-co/you-dont-know-node) ⭐ 1,542 | 🐛 1 | 🌐 Python | 📅 2018-11-27
@@ -687,7 +687,7 @@
 
 ## Typescript
 
-* [Typescript Wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 111,314 | 🐛 5,052 | 🌐 Go | 📅 2026-10-03
+* [Typescript Wiki](https://github.com/Microsoft/TypeScript/wiki) ⭐ 111,317 | 🐛 5,053 | 🌐 Go | 📅 2026-10-03
 * [Typescript Deep Dive (Book)](https://github.com/basarat/typescript-book) ⭐ 21,563 | 🐛 150 | 🌐 TypeScript | 📅 2024-06-29
 * [Using Jest for Typescript Testing](https://github.com/kulshekhar/ts-jest) ⭐ 7,071 | 🐛 79 | 🌐 TypeScript | 📅 2026-10-02
 * [Typescript Handbook](https://github.com/Microsoft/TypeScript-Handbook/blob/master/pages) ⚠️ Archived
