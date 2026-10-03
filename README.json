@@ -15,11 +15,11 @@
             "id": 24195339,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T21:54:29Z",
+            "last_commit": "2026-10-02T18:57:02Z",
             "open_issues": 1142,
             "owner": "angular",
             "repo": "angular",
-            "stars": 101026,
+            "stars": 101013,
             "topics": [
               "angular",
               "javascript",
@@ -35,7 +35,7 @@
         {
           "node_type": "item",
           "title": "Sample Angular Starter App",
-          "description": null,
+          "description": "duluca/lemon-mart",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -62,7 +62,7 @@
         {
           "node_type": "item",
           "title": "Bootstrap Tutorial Series",
-          "description": null,
+          "description": "SonarSystems/Bootstrap-4-Tutorial-Series",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -89,7 +89,7 @@
         {
           "node_type": "item",
           "title": "The Quartz Guide to Bad data",
-          "description": null,
+          "description": "Quartz/bad-data-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -121,7 +121,7 @@
         {
           "node_type": "item",
           "title": "Git and GitHub commands (a list)",
-          "description": null,
+          "description": "joshnh/Git-Commands",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -134,7 +134,7 @@
             "open_issues": 10,
             "owner": "joshnh",
             "repo": "Git-Commands",
-            "stars": 5460,
+            "stars": 5462,
             "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
@@ -148,7 +148,7 @@
         {
           "node_type": "item",
           "title": "1000+ Go exercises, examples, and quizzes",
-          "description": null,
+          "description": "inancgumus/learngo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -161,7 +161,7 @@
             "open_issues": 44,
             "owner": "inancgumus",
             "repo": "learngo",
-            "stars": 20160,
+            "stars": 20161,
             "topics": [
               "best-practices",
               "course",
@@ -196,7 +196,7 @@
         {
           "node_type": "item",
           "title": "Awesome Hacking",
-          "description": null,
+          "description": "netanmangal/Awesome-Hacking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -223,7 +223,7 @@
         {
           "node_type": "item",
           "title": "SecLists",
-          "description": null,
+          "description": "danielmiessler/SecLists",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -232,11 +232,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-01T11:16:33Z",
+            "last_commit": "2026-10-02T16:19:08Z",
             "open_issues": 9,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73874,
+            "stars": 73893,
             "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
@@ -244,7 +244,7 @@
         {
           "node_type": "item",
           "title": "awesome-infosec",
-          "description": null,
+          "description": "onlurking/awesome-infosec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -257,7 +257,7 @@
             "open_issues": 19,
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5756,
+            "stars": 5754,
             "topics": [
               "awesome",
               "courses",
@@ -280,7 +280,7 @@
         {
           "node_type": "item",
           "title": "trekhleb/javascript-algorithms",
-          "description": null,
+          "description": "trekhleb/javascript-algorithms",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -293,7 +293,7 @@
             "open_issues": 408,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196865,
+            "stars": 196867,
             "topics": [
               "algorithm",
               "algorithms",
@@ -310,7 +310,7 @@
         {
           "node_type": "item",
           "title": "YDKJS",
-          "description": null,
+          "description": "getify/You-Dont-Know-JS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -323,7 +323,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 185010,
+            "stars": 185009,
             "topics": [
               "async",
               "book",
@@ -345,7 +345,7 @@
         {
           "node_type": "item",
           "title": "ES6 Overview in 350 Bullet Points",
-          "description": null,
+          "description": "bevacqua/es6",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -376,7 +376,7 @@
         {
           "node_type": "item",
           "title": "Node.js Testing with Jest",
-          "description": null,
+          "description": "jestjs/jest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -385,11 +385,11 @@
             "id": 15062869,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T02:36:11Z",
+            "last_commit": "2026-10-02T10:56:40Z",
             "open_issues": 224,
             "owner": "jestjs",
             "repo": "jest",
-            "stars": 45460,
+            "stars": 45457,
             "topics": [
               "easy",
               "expectation",
@@ -407,7 +407,7 @@
         {
           "node_type": "item",
           "title": "The Art of Node",
-          "description": null,
+          "description": "max-mapper/art-of-node",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -428,7 +428,7 @@
         {
           "node_type": "item",
           "title": "Microsoft Node.js Guidelines",
-          "description": null,
+          "description": "microsoft/nodejs-guidelines",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -449,7 +449,7 @@
         {
           "node_type": "item",
           "title": "You don't know Node.js",
-          "description": null,
+          "description": "azat-co/you-dont-know-node",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -476,7 +476,7 @@
         {
           "node_type": "item",
           "title": "Roadmap to becoming a React developer",
-          "description": null,
+          "description": "adam-golab/react-developer-roadmap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -503,7 +503,7 @@
         {
           "node_type": "item",
           "title": "Ada Developers Academy Jump Start",
-          "description": null,
+          "description": "Ada-Developers-Academy/ada-build",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -534,7 +534,7 @@
         {
           "node_type": "item",
           "title": "Awesome Serverless",
-          "description": null,
+          "description": "anaibol/awesome-serverless",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -562,7 +562,7 @@
         {
           "node_type": "item",
           "title": "Awesome Serverless Papers",
-          "description": null,
+          "description": "penghuima/awesome-serverless-papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -597,7 +597,7 @@
         {
           "node_type": "item",
           "title": "Typescript Wiki",
-          "description": null,
+          "description": "microsoft/TypeScript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -606,11 +606,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T00:09:53Z",
-            "open_issues": 5045,
+            "last_commit": "2026-10-03T04:24:16Z",
+            "open_issues": 5052,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111307,
+            "stars": 111314,
             "topics": [
               "javascript",
               "language",
@@ -623,7 +623,7 @@
         {
           "node_type": "item",
           "title": "Typescript Deep Dive (Book)",
-          "description": null,
+          "description": "basarat/typescript-book",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -636,7 +636,7 @@
             "open_issues": 150,
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21561,
+            "stars": 21563,
             "topics": [
               "free",
               "open-source",
@@ -650,7 +650,7 @@
         {
           "node_type": "item",
           "title": "Using Jest for Typescript Testing",
-          "description": null,
+          "description": "kulshekhar/ts-jest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -659,8 +659,8 @@
             "id": 66944590,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T22:24:37Z",
-            "open_issues": 78,
+            "last_commit": "2026-10-02T21:12:06Z",
+            "open_issues": 79,
             "owner": "kulshekhar",
             "repo": "ts-jest",
             "stars": 7071,
@@ -675,7 +675,7 @@
         {
           "node_type": "item",
           "title": "Typescript Handbook",
-          "description": null,
+          "description": "microsoft/TypeScript-Handbook",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -688,7 +688,7 @@
             "open_issues": 181,
             "owner": "microsoft",
             "repo": "TypeScript-Handbook",
-            "stars": 4850,
+            "stars": 4849,
             "topics": [
               "documentation",
               "learn",
@@ -701,7 +701,7 @@
         {
           "node_type": "item",
           "title": "Typescript Exercises",
-          "description": null,
+          "description": "typescript-exercises/typescript-exercises",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:52:24.080Z",
+    "last_updated": "2026-10-03T04:54:06.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 Awesome list of resources on Web Development.",
@@ -736,7 +736,7 @@
       "open_issues": 33,
       "owner": "lauragift21",
       "repo": "awesome-learning-resources",
-      "stars": 5772,
+      "stars": 5771,
       "topics": [
         "ai",
         "awesome-list",
