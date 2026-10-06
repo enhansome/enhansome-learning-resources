@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-05T17:22:28Z",
-            "open_issues": 1164,
+            "open_issues": 1163,
             "owner": "angular",
             "repo": "angular",
             "stars": 101018,
@@ -232,11 +232,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-05T16:21:05Z",
+            "last_commit": "2026-10-06T10:18:35Z",
             "open_issues": 10,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73964,
+            "stars": 73969,
             "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
@@ -293,7 +293,7 @@
             "open_issues": 407,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196860,
+            "stars": 196857,
             "topics": [
               "algorithm",
               "algorithms",
@@ -389,7 +389,7 @@
             "open_issues": 224,
             "owner": "jestjs",
             "repo": "jest",
-            "stars": 45522,
+            "stars": 45521,
             "topics": [
               "easy",
               "expectation",
@@ -606,11 +606,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T00:18:01Z",
-            "open_issues": 5071,
+            "last_commit": "2026-10-06T09:21:46Z",
+            "open_issues": 5072,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111367,
+            "stars": 111368,
             "topics": [
               "javascript",
               "language",
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T09:17:43.354Z",
+    "last_updated": "2026-10-06T10:48:35.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 Awesome list of resources on Web Development.",
@@ -736,7 +736,7 @@
       "open_issues": 33,
       "owner": "lauragift21",
       "repo": "awesome-learning-resources",
-      "stars": 5773,
+      "stars": 5774,
       "topics": [
         "ai",
         "awesome-list",
