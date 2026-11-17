@@ -15,11 +15,11 @@
             "id": 24195339,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T01:10:27Z",
-            "open_issues": 962,
+            "last_commit": "2026-11-17T00:52:39Z",
+            "open_issues": 961,
             "owner": "angular",
             "repo": "angular",
-            "stars": 101480,
+            "stars": 101466,
             "topics": [
               "angular",
               "javascript",
@@ -232,11 +232,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-15T11:09:22Z",
+            "last_commit": "2026-11-17T10:11:28Z",
             "open_issues": 11,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 74786,
+            "stars": 74803,
             "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
@@ -257,7 +257,7 @@
             "open_issues": 22,
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5788,
+            "stars": 5789,
             "topics": [
               "awesome",
               "courses",
@@ -293,7 +293,7 @@
             "open_issues": 439,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196728,
+            "stars": 196733,
             "topics": [
               "algorithm",
               "algorithms",
@@ -323,7 +323,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184854,
+            "stars": 184856,
             "topics": [
               "async",
               "book",
@@ -385,11 +385,11 @@
             "id": 15062869,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T20:49:57Z",
-            "open_issues": 273,
+            "last_commit": "2026-11-16T23:20:54Z",
+            "open_issues": 277,
             "owner": "jestjs",
             "repo": "jest",
-            "stars": 45473,
+            "stars": 45474,
             "topics": [
               "easy",
               "expectation",
@@ -516,7 +516,7 @@
             "open_issues": 28,
             "owner": "Ada-Developers-Academy",
             "repo": "ada-build",
-            "stars": 769,
+            "stars": 770,
             "topics": [
               "ada-developers-academy",
               "cs-education",
@@ -547,7 +547,7 @@
             "open_issues": 57,
             "owner": "anaibol",
             "repo": "awesome-serverless",
-            "stars": 7587,
+            "stars": 7588,
             "topics": [
               "cloud",
               "cloud-computing",
@@ -606,11 +606,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T08:17:13Z",
-            "open_issues": 5306,
+            "last_commit": "2026-11-17T07:12:54Z",
+            "open_issues": 5304,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111830,
+            "stars": 111837,
             "topics": [
               "javascript",
               "language",
@@ -636,7 +636,7 @@
             "open_issues": 149,
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21578,
+            "stars": 21579,
             "topics": [
               "free",
               "open-source",
@@ -659,11 +659,11 @@
             "id": 66944590,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T03:13:32Z",
-            "open_issues": 79,
+            "last_commit": "2026-11-16T20:42:27Z",
+            "open_issues": 77,
             "owner": "kulshekhar",
             "repo": "ts-jest",
-            "stars": 7073,
+            "stars": 7074,
             "topics": [
               "jest",
               "testing",
@@ -714,7 +714,7 @@
             "open_issues": 22,
             "owner": "typescript-exercises",
             "repo": "typescript-exercises",
-            "stars": 3008,
+            "stars": 3007,
             "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T10:04:48.107Z",
+    "last_updated": "2026-11-17T11:00:25.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 Awesome list of resources on Web Development.",
