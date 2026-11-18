@@ -15,11 +15,11 @@
             "id": 24195339,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T00:52:39Z",
-            "open_issues": 961,
+            "last_commit": "2026-11-17T23:56:19Z",
+            "open_issues": 957,
             "owner": "angular",
             "repo": "angular",
-            "stars": 101466,
+            "stars": 101463,
             "topics": [
               "angular",
               "javascript",
@@ -48,7 +48,7 @@
             "open_issues": 24,
             "owner": "duluca",
             "repo": "lemon-mart",
-            "stars": 192,
+            "stars": 193,
             "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
@@ -161,7 +161,7 @@
             "open_issues": 44,
             "owner": "inancgumus",
             "repo": "learngo",
-            "stars": 20189,
+            "stars": 20188,
             "topics": [
               "best-practices",
               "course",
@@ -232,11 +232,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-17T10:11:28Z",
+            "last_commit": "2026-11-18T10:11:30Z",
             "open_issues": 11,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 74803,
+            "stars": 74827,
             "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
@@ -257,7 +257,7 @@
             "open_issues": 22,
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5789,
+            "stars": 5793,
             "topics": [
               "awesome",
               "courses",
@@ -290,10 +290,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-07-26T02:43:08Z",
-            "open_issues": 439,
+            "open_issues": 440,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196733,
+            "stars": 196737,
             "topics": [
               "algorithm",
               "algorithms",
@@ -386,10 +386,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-16T23:20:54Z",
-            "open_issues": 277,
+            "open_issues": 278,
             "owner": "jestjs",
             "repo": "jest",
-            "stars": 45474,
+            "stars": 45475,
             "topics": [
               "easy",
               "expectation",
@@ -420,7 +420,7 @@
             "open_issues": 15,
             "owner": "max-mapper",
             "repo": "art-of-node",
-            "stars": 9858,
+            "stars": 9859,
             "topics": []
           },
           "first_seen": "2026-08-28T14:32:24.355Z"
@@ -547,7 +547,7 @@
             "open_issues": 57,
             "owner": "anaibol",
             "repo": "awesome-serverless",
-            "stars": 7588,
+            "stars": 7587,
             "topics": [
               "cloud",
               "cloud-computing",
@@ -606,11 +606,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T07:12:54Z",
-            "open_issues": 5304,
+            "last_commit": "2026-11-18T05:54:07Z",
+            "open_issues": 5285,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111837,
+            "stars": 111840,
             "topics": [
               "javascript",
               "language",
@@ -636,7 +636,7 @@
             "open_issues": 149,
             "owner": "basarat",
             "repo": "typescript-book",
-            "stars": 21579,
+            "stars": 21578,
             "topics": [
               "free",
               "open-source",
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T11:00:25.655Z",
+    "last_updated": "2026-11-18T10:34:35.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 Awesome list of resources on Web Development.",
